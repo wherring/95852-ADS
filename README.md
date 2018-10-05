@@ -8,4 +8,5 @@ Separately, find the 10 most anomalous hours and 10 most anomalous minutes. See 
 
 Look for possible explanations of whether the times we uncover actually match up with unsual activity in the bitcoin world.
 
+
 .
